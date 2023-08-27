@@ -1,6 +1,6 @@
 # Guess the US States Game
 # Overview
-This game is made using the Turtle module of Python and using the files concept.
+This game is made using the Turtle module of Python and the files concept.
 Welcome to the Guess the US States Game! This game challenges you to guess the names of all the US states. 
 As you guess correctly, the map gets updated to show the location of the guessed state.
 
